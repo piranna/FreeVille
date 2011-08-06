@@ -1,0 +1,8 @@
+FreeVille is a version of so-famous [whatever]Ville strategic games easily found
+at an also known social network but developed using open standards like HTML5
+instead of Flash and with the purpose of being easy to modify and add your own
+rules and functionality to develop your own social game.
+
+Currently is being developed over Google AppEngine, but since the important part
+is at the client (the web browser) being the server just a (big) database, this
+should be easy to split at the future to develop new servers on other platforms.
