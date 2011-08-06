@@ -1,0 +1,14 @@
+application: freeville-pyserver
+version: 1
+runtime: python
+api_version: 1
+
+handlers:
+- url: /js
+  static_dir: js
+
+- url: /tiles
+  static_dir: tiles
+
+- url: /.*
+  script: pyserver.py
