@@ -1,6 +1,6 @@
-* Get the cells array from the server.
+[2011-08-07] Get the cells array from the server.
 * Create cockpit.
-	Allow zooming (SVG animated tiles).
+Remove several tiles when placing or removing a new object
 Develop new buildings.
 Create an story.
 Create characteristics, requeriments, cost and revenues for the buildings.
@@ -10,3 +10,6 @@ Add multiplayer.
 
 Split tiles in ground and object (if any). Put object relative to ground
 All working on server, notification by push.
+Use Prototype.js Element
+Use SVG animated tiles instead of PNGs
+Allow zooming.
