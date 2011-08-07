@@ -3,15 +3,21 @@
 	<head>
 		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 		<title>FreeVille</title>
+		<script src="content/js/jquery-1.5.1.min.js"></script>
+		<script src="content/js/jquery-ui-1.8.14.custom.min.js"></script>
 		<script src="content/js/prototype.js"></script>
+
 		<script src="content/js/Map.js"></script>
 		<script src="content/js/Tile.js"></script>
 		<script src="content/js/html5Ville.js"></script>
 	</head>
-	<body onload="document_OnLoad()">
-		<div id="cells"></div>
+	<body onload="document_OnLoad()" width="100%">
+		<div id="cells" class="ui-widget-content"></div>
 		<div id="punctuation"></div>
 		<div id="task"></div>
-		<div id="dock"></div>
+		<div id="dock" height="64px" style="position:absolute;bottom:0px;background-color=#EEE">
+			<img src="content/tiles/house.png" onclick="setCurrentTool('house');"/>
+			<img src="content/images/Cancel.png" height=64px onclick="setCurrentTool(null);"/>
+		</div>
 	</body>
 </html>
