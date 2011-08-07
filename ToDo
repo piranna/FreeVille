@@ -1,0 +1,12 @@
+* Get the cells array from the server.
+* Create cockpit.
+	Allow zooming (SVG animated tiles).
+Develop new buildings.
+Create an story.
+Create characteristics, requeriments, cost and revenues for the buildings.
+Create functionality for the buildings.
+	Add functionality tables.
+Add multiplayer.
+
+Split tiles in ground and object (if any). Put object relative to ground
+All working on server, notification by push.
