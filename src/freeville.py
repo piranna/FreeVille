@@ -1,11 +1,11 @@
 from google.appengine.ext.webapp import WSGIApplication
 from google.appengine.ext.webapp.util import run_wsgi_app
 
-from Cells import Cells
+from Ground import Ground
 from Main import Main
 
 
-application = WSGIApplication([('/cells', Cells),
+application = WSGIApplication([('/ground', Ground),
                                ('/', Main)], debug=True)
 
 
