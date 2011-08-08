@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   version="1.1"
+   width="1043.3219"
+   height="885.82672"
+   id="svg3023">
+  <title
+     id="title3095">CM Isometric Home</title>
+  <defs
+     id="defs3025" />
+  <g
+     transform="translate(149.6137,-83.2677)"
+     id="layer1">
+    <g
+       transform="translate(-1499.7951,-1713.189)"
+       id="g4254">
+      <path
+         d="m 1411.5533,2434.2519 429.6031,248.0315 0,-354.3307 -214.8015,-248.0314 -214.8016,0 0,354.3306 z"
+         id="path3804"
+         style="fill:#babdb6;fill-opacity:1;stroke:none" />
+      <path
+         d="m 1841.1564,2327.9528 490.975,-283.4645 0,354.3306 -490.975,283.4645 0,-354.3306 z"
+         id="path3806"
+         style="fill:#d3d7cf;fill-opacity:1;stroke:none" />
+      <path
+         d="m 2178.7172,2203.9388 -76.7187,44.2811 0,88.5938 76.7187,-44.2813 0,-88.5936 z m -92.0624,53.1561 -92.0626,53.1563 0,88.5625 92.0626,-53.1563 0,-88.5625 z m 92.0624,53.1563 -76.7187,44.2812 0,70.875 76.7187,-44.3125 0,-70.8437 z m -92.0624,53.1562 -92.0626,53.125 0,70.875 92.0626,-53.1562 0,-70.8438 z"
+         id="path3824"
+         style="fill:#3465a4;fill-opacity:1;stroke:none" />
+      <path
+         d="m 1626.3549,2079.9213 276.1734,318.8975 490.975,-283.4645 -276.1734,-318.8976 -490.975,283.4646 z"
+         id="path3808"
+         style="fill:#cc0000;fill-opacity:1;stroke:none" />
+      <path
+         d="m 1350.1814,2079.9213 276.1735,0 490.975,-283.4646 -276.1735,0 -490.975,283.4646 z"
+         id="path3812"
+         style="fill:#a40000;fill-opacity:1;stroke:none" />
+      <path
+         d="m 1564.983,2522.8346 0,-265.748 122.7437,70.8661 0,265.748 -122.7437,-70.8661 z"
+         id="path3818"
+         style="fill:#8f5902;fill-opacity:1;stroke:none" />
+      <path
+         d="m 2332.579,2150.9363 -0.4475,17.5676 -153.4297,88.5827 0,-17.7166 153.8772,-88.4337 z"
+         id="path3834"
+         style="fill:#babdb6;fill-opacity:1;stroke:none" />
+      <path
+         d="m 2178.7018,2257.0866 0,-17.7166 -76.7149,44.2914 0,17.7165 76.7149,-44.2913 z"
+         id="path3836"
+         style="fill:#204a87;fill-opacity:1;stroke:none" />
+      <path
+         d="m 2101.9869,2301.3779 -15.343,8.8583 0,-17.7166 15.343,-8.8582 0,17.7165 z"
+         id="path3838"
+         style="fill:#babdb6;fill-opacity:1;stroke:none" />
+      <path
+         d="m 1994.5861,2363.3858 0,-17.7166 92.0578,-53.1496 0,17.7166 -92.0578,53.1496 z"
+         id="path3840"
+         style="fill:#204a87;fill-opacity:1;stroke:none" />
+      <path
+         d="m 1994.5861,2345.6692 -92.0578,53.1496 -61.3719,-70.8661 0,124.0157 153.4297,-88.5826 0,-17.7166 z"
+         id="path3842"
+         style="fill:#babdb6;fill-opacity:1;stroke:none" />
+    </g>
+  </g>
+</svg>

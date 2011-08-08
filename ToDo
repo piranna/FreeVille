@@ -1,15 +1,20 @@
 [2011-08-07] Get the cells array from the server.
 * Create cockpit.
-Remove several tiles when placing or removing a new object
-Develop new buildings.
+* Remove several tiles when placing or removing a new object
+* Develop new buildings.
 Create an story.
 Create characteristics, requeriments, cost and revenues for the buildings.
 Create functionality for the buildings.
 	Add functionality tables.
 Add multiplayer.
+Store modified data on the server
 
 Split tiles in ground and object (if any). Put object relative to ground
 All working on server, notification by push.
 Use Prototype.js Element
-Use SVG animated tiles instead of PNGs
+[2011-08-08] Use SVG animated tiles instead of PNGs
 Allow zooming.
+Separate objects from ground at server
+Draw first ground and later objects
+Allow multilevel (underground, ground, underwater, water, air, mountains...)
+Change server to send correct MIME type for SVGs images with extension removed.
