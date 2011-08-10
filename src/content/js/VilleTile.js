@@ -1,14 +1,13 @@
 // A tile is a combination of a ground area and (maybe) an object
 
-var Tile = Class.create(
+var VilleTile = Class.create(
 {
-	initialize: function(type, image)
+	initialize: function(tile, type)
 	{
-		this.allow = engine.types[type]
+		this.type = type
 
-		// Tile ground
 		this.element = document.createElement("img");
-		this.element.setAttribute("src", "content/ground/"+image);
+		this.element.setAttribute("src", "content/ground/"+tile.image);
 //		this.ground.width = "100%"
 
 //		this.ground.style.position = "absolute"
@@ -16,9 +15,7 @@ var Tile = Class.create(
 //		this.ground.style.left = "50%"
 
 		this.element.addEventListener("mouseover", this.onMouseOver);
-		this.element.addEventListener("mouseout", this.onMouseOut);
-
-//		this.element.appendChild(this.ground)
+		this.element.addEventListener("mouseout",  this.onMouseOut);
 	},
 
 	onMouseOver: function()

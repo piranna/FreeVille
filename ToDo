@@ -3,18 +3,21 @@
 * Remove several tiles when placing or removing a new object
 * Develop new buildings.
 Create an story.
-Create characteristics, requeriments, cost and revenues for the buildings.
+* Create characteristics, requeriments, cost and revenues for the buildings.
 Create functionality for the buildings.
 	Add functionality tables.
-Add multiplayer.
+* Add multiplayer.
 Store modified data on the server
+Use classes for storage Ground and Objects data instead of JSON structures
 
-Split tiles in ground and object (if any). Put object relative to ground
+[2011-08-10] Split tiles in ground and object (if any)
 All working on server, notification by push.
 Use Prototype.js Element
 [2011-08-08] Use SVG animated tiles instead of PNGs
 Allow zooming.
-Separate objects from ground at server
-Draw first ground and later objects
+[2011-08-10] Separate objects from ground at server
+[2011-08-10] Draw first ground and later objects
 Allow multilevel (underground, ground, underwater, water, air, mountains...)
 Change server to send correct MIME type for SVGs images with extension removed.
+3D (WebGL)
+Fish and whales runing on the water

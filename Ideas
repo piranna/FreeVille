@@ -1,0 +1,7 @@
+A new user gets a newly created ville area. If this area is part of a bigger map,
+the user is able to select where he wants it (maybe near a friend ville or
+regarded to area resources, it's not the same a dessert that poles).
+
+Every ville will have an unique ID (model key?). This way we can know what
+villes are owned by a user but also what villes are being disputed (invasions,
+conflicts, user expasions, colonies, embassys...)
