@@ -2,9 +2,8 @@ var Engine = Class.create(
 {
 	initialize: function(element, cellW,cellH)
 	{
-//		element.draggable();
-
 		this.element = element;
+		this.currentTool = null
 
 		this.load(cellW,cellH)
 	},

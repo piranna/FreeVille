@@ -76,12 +76,12 @@ class Ground(webapp.RequestHandler):
 
     @checkLogged
     def put(self):
-        key = self.request.get('key')
+        ville = self.request.get('ville')
         y = self.request.get('y')
         x = self.request.get('x')
         type  = self.request.get('type')
 
-        ville = Ville.get(key)
+        ville = Ville.get(ville)
         ground = json.loads(ville.ground)
         ground[y][x] = type
         ville.ground = json.dumps(ground)

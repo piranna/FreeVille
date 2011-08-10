@@ -7,7 +7,7 @@ var VilleObject = Class.create(
 		this.width = type.w;
 		this.height = type.h;
 
-		this.state = state
+		this.state = (state == undefined) ? null : state
 
 		this.element = document.createElement("img");
 		this.element.setAttribute("src", "content/objects/"+type.image);
