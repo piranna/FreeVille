@@ -2,7 +2,7 @@ repo_name: piranna/FreeVille
 report_id: 0f15c13682783dde9afc7e9c0c7a60ca
 version: 0.1
 repo_type: Public
-timestamp: '2023-12-27T06:16:31+00:00'
+timestamp: '2024-01-05T08:14:53+00:00'
 requested_by: piranna
 provider: github
 branch: master
@@ -17,6 +17,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/piranna/FreeVille
   detection_source: Repo Metadata
 - name: Python
   description: A clear and powerful object-oriented programming language, comparable
@@ -27,6 +28,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/993/pUBY5pVj.png
+  detection_source_url: https://github.com/piranna/FreeVille
   detection_source: Repo Metadata
 - name: Git
   description: Fast, scalable, distributed revision control system
@@ -36,4 +38,5 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/piranna/FreeVille
   detection_source: Repo Metadata
